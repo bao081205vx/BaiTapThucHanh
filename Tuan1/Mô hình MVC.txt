@@ -1,0 +1,1 @@
+Mô hình MVC trong Spring Boot giúp tách biệt rõ ràng giữa logic xử lý, dữ liệu, và giao diện, từ đó giúp việc phát triển và bảo trì ứng dụng dễ dàng hơn. Ngoài ra, Spring Boot còn hỗ trợ rất tốt với các thư viện như Thymeleaf, JPA, RESTful API để tận dụng mô hình MVC hiệu quả
